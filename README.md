@@ -21,4 +21,4 @@ moving yourself from the place.
 
 I know controls are not that easy to learn, but it's not easy to mock virtual reality without the proper tools either.
 
-I hope you get some useful ideas from here.
+I hope you get some useful ideas from here!
