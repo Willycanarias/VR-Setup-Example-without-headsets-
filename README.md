@@ -1,5 +1,5 @@
 1. Download the .rar to get the Unity project.
-2. You need libraries. Donwload them from here and put them inside the project folder: https://drive.google.com/file/d/1UZ6i9WGq41hfZl1EEgrpAXCiJltGpRfC/view?usp=sharing
+2. You need libraries. Download them from here and put them inside the project folder: https://drive.google.com/file/d/1UZ6i9WGq41hfZl1EEgrpAXCiJltGpRfC/view?usp=sharing
 3. I am going to give some indications to use this simulation:
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Starting the simulation:
@@ -21,4 +21,4 @@ moving yourself from the place.
 
 I know controls are not that easy to learn, but it's not easy to mock virtual reality without the proper tools either.
 
-I hope you get some useful ides from here.
+I hope you get some useful ideas from here.
