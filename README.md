@@ -2,7 +2,7 @@
 2. You need libraries. Download them from here and put them inside the project folder: https://drive.google.com/file/d/1UZ6i9WGq41hfZl1EEgrpAXCiJltGpRfC/view?usp=sharing
 3. I am going to give some indications to use this simulation:
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Starting the simulation (with the project running):
+Starting the simulation (with the project running and in the game screen):
 1. Hold right click, move upwards and put the camera above the ground.
 2. Hold left shift and scroll forward until a white rectangle appears (it mocks the left hand).
 
