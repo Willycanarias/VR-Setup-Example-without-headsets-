@@ -8,7 +8,7 @@ Starting the simulation:
 
 Playing the simulator:
 1. Right click will simulate the eyes. Where the player is looking at. Try to move it side to side and up and down.
-2. To move in any direction, hold left shift and press W (to go forward), S (to go backwards), A (to go left) and S (to go right).
+2. To move in any direction, hold left shift and press W (to go forward), S (to go backwards), A (to go left) and D (to go right).
 3. Try to move with WASD and hold right click at the same time.
 4. Try to move with WASD and DON'T hold right click to see what does different.
 5. Hold left shift and press Q to rotate view to the left.
