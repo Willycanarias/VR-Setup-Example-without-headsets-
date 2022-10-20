@@ -14,7 +14,7 @@ Playing the simulator:
 5. Hold left shift and press Q to rotate view to the left.
 6. Hold left shift and press E to rotate view to the right.
 7. You can try to combine all the moves.
-8. If you hold left shift and scroll backwards and forward, it's like you are moving your head in the mentioned direction without
+8. If you hold left shift and scroll backwards and forward, it's like you are moving your head in the mentioned directions without
 moving yourself from the place.
 9. Hold left shift, push the scroll and move it backwards and forward and see what happens.
 10. Last point, hold left shift, press right click, push scroll and move it backwards and forward.
